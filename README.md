@@ -2,7 +2,8 @@ Hello there!👋🏻
 
 I'm a latin american (🇵🇪) undergraduate student at the Universidad Nacional Mayor de San Marcos (UNMSM). Currently, I'm pursuing a degree in archaeology and hope to specialize in computational archaeology, bioinformatics, and archaeoastronomy. 
 
-I want to promote a democratized science, with open data and open-source code, without barriers to knowledge among researchers, students, and the general public, because knowledge should be free.
+I want to promote a democratized science, with open data and open-source code, without barriers to knowledge among researchers, students, and the general public, because I believe the science have the power to change the world; knowledge should be free.
+
 I'm working on my undergraduate thesis, applying Python-based programming, data science, and GIS techniques. 
 
 I hope to meet more people who share my interests, connect with more researchers and programmers, and grow professionally.
